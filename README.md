@@ -15,7 +15,7 @@ A Large-scale Benchmark Dataset for Event Recognition in Surveillance Video" by 
 [Access Link](https://viratdata.org). 
 
 ### Object Detection
-- **YOLOv4**: Object detection is performed using YOLOv3, a state-of-the-art real-time object detection system. YOLOv3 identifies the bicycle in the video frames, providing bounding box information.
+- **YOLOv4**: Object detection is performed using YOLOv4, a state-of-the-art real-time object detection system. YOLOv4 identifies the bicycle in the video frames, providing bounding box information.
 
 ### Challenges
 - **Dynamic Scenarios**: The project addresses various challenges, including changes in object size (bounding box), temporary loss of object tracking, and object disappearance due to occlusion. These scenarios are common in real-world surveillance videos.
