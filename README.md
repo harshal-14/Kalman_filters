@@ -1,6 +1,6 @@
 # Bicycle Tracking Using Kalman Filter
 
-![Bicycle Tracking](kalman_filter_tracking.gif)
+![Bicycle Tracking](images\kalman_filter_tracking.gif)
 
 ## Introduction
 
