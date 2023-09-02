@@ -1,6 +1,6 @@
 # Bicycle Tracking Using Kalman Filter
 
-![Bicycle Tracking](images\track_083.jpg)
+![Bicycle Tracking](images/track_083.jpg)
 
 ## Introduction
 
