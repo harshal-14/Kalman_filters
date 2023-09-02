@@ -40,13 +40,9 @@ To run the project and observe the Kalman filter in action, follow these steps:
 
 ## Example Results
 
-![Result 1](\images\result1.png)
+![Result 2](images/occlusion_handling.jpg)
 
-*Caption: Improved bicycle tracking using the Kalman filter.*
-
-![Result 2](images\result2.png)
-
-*Caption: Handling occlusion and changes in object size.*
+*Caption: Handling occlusion*
 
 ## Contributions
 
@@ -56,7 +52,7 @@ Contributions and feedback are highly encouraged and welcome! If you'd like to c
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to use, modify, and distribute the code in accordance with the license terms.
 
-For more information and project updates, visit the project's GitHub repository: [Project Repository](https://github.com/yourusername/yourproject).
+For more information and project updates, visit the project's GitHub repository: [Project Repository](https://github.com/Lucifer2700/Kalman_filters).
 
 For inquiries and contact, reach out to [Harshal Bhat](mailto:hbhat@wpi.edu).
 
